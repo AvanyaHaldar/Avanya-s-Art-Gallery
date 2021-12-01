@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right top, rgb(241, 137, 207), #f079f0, #e029e0, #a25fe0, #08caec);
+}
+
+img{
+    height: 600px;
+    width: 600px;
+    margin: 10px;
+}
+h1,h2{
+    color:yellow;
+    font-family: comic sans ms;
+    font-weight: bold;
+}
+.artWork{
+    background-color: whitesmoke;
+    width: 90%;
+    border-radius: 10%;
+    border: 2px solid turquoise;
+    float: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.images{
+    width: 300px;
+    height:300px;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.book { 
+    cursor: pointer;
+ } 
+ .book hr { 
+     margin-bottom: 10px; 
+    }
+
+    .carousel-inner p {
+        margin-bottom: 15px;
+        margin-bottom: 15px;
+        color: deeppink;
+        font-size: 20px;
+        font: bold;
+        font-family: cursive;
+    }
+    #slide_view {
+        padding: 20px;
+        font-size: 18;
+        text-align: center;
+    }
